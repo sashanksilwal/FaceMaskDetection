@@ -7,4 +7,4 @@
 
 ### Results
 
-<!-- ![](https://github.com/sashanksilwal/FaceMaskDetection/blob/main/img.jpg) -->
+![](https://github.com/sashanksilwal/FaceMaskDetection/blob/main/img.jpg)
