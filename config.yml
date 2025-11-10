@@ -1,0 +1,4 @@
+paths:
+  face_detector_dir: "models/face_detector"
+  mask_model: "models/mask_detector.model"
+  results_dir: "outputs/results"
