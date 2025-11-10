@@ -3,8 +3,8 @@
 Lightweight face-mask detection using transfer learning (MobileNetV2 / VGG16 examples).  
 Fast inference with OpenCV DNN for face detection + a small TensorFlow classifier for mask vs no-mask.
 
-![training loss and accuracy](https://github.com/sashanksilwal/FaceMaskDetection/blob/main/plotMobileNet.png)
-![VGG16](https://github.com/sashanksilwal/FaceMaskDetection/blob/main/plotVGG.png)
+![Training loss and accuracy](outputs/plots/plotMobileNet.png)
+![VGG16](outputs/plots/plotVGG.png)
 
 ---
 ## Motivation
